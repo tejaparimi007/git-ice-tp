@@ -1,5 +1,5 @@
 //
-//  FirstViewController.swift
+//  SecondViewController.swift
 //  Git-ICE-TP
 //
 //  Created by Parimi,Teja on 14/11/16.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class FirstViewController: UIViewController {
+class BeeVC: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
